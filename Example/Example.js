@@ -143,6 +143,7 @@ const Example = () => (
                   tabBarStyle={styles.tabBarStyle}
                   activeBackgroundColor="white"
                   inactiveBackgroundColor="rgba(255, 0, 0, 0.5)"
+                  tabBarPosition="top"
                 >
                   <Stack
                     key="tab_1"
